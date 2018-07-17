@@ -1,5 +1,5 @@
 {
-  "name": "to-pe",
+  "name": "await-parse-error",
   "version": "0.1.0",
   "description": "Simple module to bind await-to-js with parse-error modules as described in https://codeburst.io/build-a-rest-api-for-node-mysql-2018-jwt-6957bcfc7ac9",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/s1moe2/to-pe.git"
+    "url": "git+https://github.com/s1moe2/await-parse-error.git"
   },
   "keywords": [
     "node",
@@ -22,9 +22,9 @@
   "author": "Diogo Simões",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/s1moe2/to-pe/issues"
+    "url": "https://github.com/s1moe2/await-parse-error/issues"
   },
-  "homepage": "https://github.com/s1moe2/to-pe#readme",
+  "homepage": "https://github.com/s1moe2/await-parse-error#readme",
   "dependencies": {
     "await-to-js": "2.0.1",
     "parse-error": "0.2.0"
